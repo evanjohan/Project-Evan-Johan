@@ -3,6 +3,7 @@ Project penerapan:
 - RabbitMQ (Messages broker)
 - Connection database
 - Rest API
+- Go Language
 # Producer 
 COMMAND : go run main.go  <br/>
 POST : /news ( kalau di local :localhost:8080/News)<br/>
