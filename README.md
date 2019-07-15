@@ -5,7 +5,7 @@ Project penerapan:
 - Rest API
 - Go Language
 # Producer 
-COMMAND : go run main.go  <br/>
+COMMAND : go run main.go (pada folder src/main )<br/>
 POST : /news ( kalau di local :localhost:8080/News)<br/>
 JSON BODY example : {<br/>
 	"author" : "Berita IT",<br/>
